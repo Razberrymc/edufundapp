@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Raleway&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/bootstrap_css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/main.css">
+</head>
+
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+{{ super() }}
+	<style>
+		body { background-color: #000000;
+background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+ }
+	</style>
+{% endblock %}
+
+
+{% block title %}
+Edufunds
+{% endblock %}
+
+
+{% block content %}
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+
+      <h1 id="title">How much of your state's budget goes into education?</h1>
+
+      <p>Have you ever wondered how much money your state dedicates to public education? Here you can find data on state education spending, see how that impacts the top rated public high schools in that state, and compare how individual schools stack up against statewide graduation rates.</p>
+
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-8 col-lg-6 mx-md-auto mx-lg-auto">
+			<div class="bg-secondary text-white p-4" id="choose">
+
+
+       {{ wtf.quick_form(form, action=url_for("state_detail"), method="post") }}
+
+	   </div>
+    </div>
+  </div>
+</div>
+</body>
+
+<footer> This app was made by Michael Clark. View it on Github</footer>
+
+{% endblock %}

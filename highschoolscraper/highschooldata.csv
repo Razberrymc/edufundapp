@@ -1,0 +1,728 @@
+school name,location,state,rating,state test proficiency,population,graduation rate,standardized test performance,upperclassmen taking ACT or SAT,AP class enrollment rate,AP test pass rate,white student percentage,black student percentage,hispanic student percentage,asian pacific student percentage,native american indian student percentage,hawaiian pacific islander student percentage,two or more races student percentage
+"
+Spain Park High School
+",Hoover,AL,#1,64%,"
+1,645
+",95%,64%,87%,29%,69%,64.7%,23.5%,4.2%,5.2%,0%,0.2%,2.1%
+"
+Hewitt-Trussville High School
+",Trussville,AL,#2,62%,"
+1,366
+",97%,62%,113%,22%,55%,83.9%,11.6%,1.2%,2.2%,0.1%,0%,1%
+"
+Homewood High School
+",Homewood,AL,#3,60%,"
+1,105
+",95%,60%,85%,26%,74%,58.8%,27.7%,8.6%,3.4%,0.1%,0.3%,1.1%
+"
+South Anchorage High School
+",Anchorage,AK,#1,41%,"
+1,444
+",96%,41%,48%,23%,67%,65.8%,1.7%,8.6%,7.9%,6.2%,0.7%,9.1%
+"
+Eagle River High School
+",Eagle River,AK,#2,42%,"
+831
+",95% or more*,42%,44%,24%,61%,68%,7.6%,10.2%,3.2%,1.9%,0.7%,8.3%
+"
+Homer High School
+",Homer,AK,#3,42%,"
+394
+",90% to 94%*,42%,45%,23%,52%,80.2%,0.3%,5.8%,2%,5.3%,0.5%,5.8%
+"
+University High School
+",Tucson,AZ,#1,96%,"
+1,033
+",99% or more*,96%,63%,68%,93%,50%,1.5%,32.8%,8.3%,0.5%,0.4%,6.5%
+"
+Hamilton High School
+",Chandler,AZ,#2,57%,"
+3,740
+",95%,57%,62%,33%,76%,51.5%,8.7%,22%,13.6%,2.5%,0.2%,1.5%
+"
+Perry High School
+",Gilbert,AZ,#3,69%,"
+3,194
+",95%,69%,59%,18%,73%,71.7%,4.5%,15.3%,6.2%,1%,0%,1.3%
+"
+Valley View High School
+",JONESBORO,AR,#1,43%,"
+585
+",95% or more*,43%,21.2,31st,29%,90.1%,2.1%,3.8%,2.4%,0.3%,0%,1.4%
+"
+Prairie Grove High School
+",PRAIRIE GROVE,AR,#2,36%,"
+588
+",90% to 94%*,36%,20.3,1st,102%,94.4%,0.5%,3.6%,0.9%,0.7%,0%,0%
+"
+Rogers High School
+",ROGERS,AR,#3,44%,"
+2,015
+",93%,44%,19.4,62nd,52%,50.7%,1.4%,43.1%,2.4%,0.5%,0.9%,0.9%
+"
+Monta Vista High
+",Cupertino,CA,#1,1411,"
+2,357
+",94%,1411,42nd,26th,14%,15.4%,0.1%,2.6%,78.2%,0%,0%,3.6%
+"
+Lynbrook High
+",San Jose,CA,#2,1393,"
+1,853
+",93%,1393,32nd,23rd,14%,11.5%,0.4%,3.1%,80.9%,0.1%,0.1%,3.8%
+"
+Saratoga High
+",Saratoga,CA,#3,1368,"
+1,378
+",93%,1368,38th,56th,14%,28%,0.1%,5%,58.6%,0%,0%,8.3%
+"
+Evergreen High School
+",EVERGREEN,CO,#1,56%,"
+1,013
+",96%,56%,26,8th,74%,90.6%,0%,5.2%,1.2%,0.2%,0.1%,2.7%
+"
+Cheyenne Mountain High School
+",COLORADO SPRINGS,CO,#2,57%,"
+1,312
+",95%,57%,24.2,10th,78%,77.7%,2.4%,12.8%,3.7%,0.3%,0.3%,2.7%
+"
+Cherry Creek High School
+",GREENWOOD VILLAGE,CO,#3,60%,"
+3,506
+",92%,60%,25.5,16th,92%,70.1%,2.7%,11.4%,11.7%,0.3%,0.2%,3.5%
+"
+Ridgefield High School
+",Ridgefield,CT,#1,78%,"
+1,744
+",98%,78%,1218,8th,95%,88.6%,0.7%,4.6%,5.1%,0%,0.1%,0.8%
+"
+Glastonbury High School
+",Glastonbury,CT,#2,70%,"
+2,038
+",99% or more*,70%,1154,10th,90%,75.1%,4.3%,7.7%,10.4%,0.1%,0%,2.4%
+"
+Simsbury High School
+",Simsbury,CT,#3,80%,"
+1,450
+",98%,80%,1178,24th,79%,85.7%,5%,3.8%,4.9%,0%,0%,0.7%
+"
+Stanton College Preparatory
+",JACKSONVILLE,FL,#1,88%,"
+1,557
+",99% or more*,88%,1209,4th,48%,48%,17.7%,6.9%,23%,0.6%,0.1%,3.7%
+"
+Suncoast Community High School
+",RIVIERA BEACH,FL,#2,87%,"
+1,523
+",99% or more*,87%,1173,27th,56%,41.8%,19.2%,20%,14.9%,0.5%,0%,3.5%
+"
+Alexander W Dreyfoos Junior School Of The Arts
+",WEST PALM BEACH,FL,#3,89%,"
+1,373
+",99% or more*,89%,1116,7th,38%,57.5%,9.8%,22.2%,5.1%,0.2%,0.1%,5.1%
+"
+Gwinnett School of Mathematics- Science and Technology
+",Lawrenceville,GA,#1,90%,"
+976
+",95% or more*,90%,1252,16th,82%,19.5%,26.1%,9.4%,41.3%,0.3%,0.2%,3.2%
+"
+Northview High School
+",Duluth,GA,#2,76%,"
+1,922
+",98%,76%,1203,51st,86%,34.6%,10.6%,5%,46.6%,0.1%,0.1%,3%
+"
+Johns Creek High School
+",Johns Creek,GA,#3,70%,"
+2,011
+",98%,70%,1127,35th,86%,59.7%,9.2%,5.6%,22.8%,0.1%,0%,2.6%
+"
+Mililani High School
+",Mililani,HI,#1,60%,"
+2,415
+",92%,60%,176%,16%,55%,12.9%,2.9%,8.7%,43.4%,0.2%,18.8%,13%
+"
+Moanalua High School
+",Honolulu,HI,#2,58%,"
+1,998
+",93%,58%,181%,10%,44%,12.1%,5.5%,7%,52.7%,0.3%,12.4%,10.2%
+"
+President Theodore Roosevelt High School
+",Honolulu,HI,#3,63%,"
+1,423
+",87%,63%,176%,24%,46%,4.5%,0.9%,2.7%,58.4%,0.5%,23.3%,9.7%
+"
+Sugar-salem High School
+",SUGAR CITY,ID,#1,60%,"
+502
+",95% or more*,60%,65%,35%,81%,89.6%,0.6%,7.8%,0.4%,0.4%,0.4%,0.8%
+"
+Timberline High School
+",BOISE,ID,#2,68%,"
+1,110
+",95%,68%,46%,49%,60%,82.7%,2.3%,7.3%,5.4%,0.2%,0.9%,1.2%
+"
+McCALL-DONNELLY HIGH SCHOOL
+",MCCALL,ID,#3,57%,"
+281
+",95% or more*,57%,66%,32%,73%,90.4%,0%,8.5%,0.4%,0%,0%,0.7%
+"
+Naperville North High School
+",Naperville,IL,#1,68%,"
+2,885
+",98%,68%,25.1,34th,93%,65.2%,5.7%,8.5%,16.7%,0.2%,0.1%,3.5%
+"
+Hinsdale Central High School
+",Hinsdale,IL,#2,57%,"
+2,778
+",95%,57%,26.6,37th,92%,75.4%,2.6%,4.7%,14.7%,0.2%,0.1%,2.4%
+"
+Northside College Preparatory High School
+",Chicago,IL,#3,90%,"
+1,047
+",99% or more*,90%,29.8,329th,94%,37.4%,8.7%,27.2%,17.5%,0.2%,0.3%,8.7%
+"
+Westfield High School
+",Westfield,IN,#1,96%,"
+1,934
+",98%,96%,1093,8th,83%,84%,2.7%,7.3%,2.2%,0.1%,0%,3.8%
+"
+Munster High School
+",Munster,IN,#2,96%,"
+1,522
+",96%,96%,1105,37th,67%,64%,6.1%,19.4%,7.2%,0%,0%,3.3%
+"
+Carmel High School
+",Carmel,IN,#3,97%,"
+4,830
+",97%,97%,1144,29th,55%,78.3%,3.8%,2.6%,10.7%,0.2%,0.2%,4.1%
+"
+Ankeny Centennial High School
+",Ankeny,IA,#1,94%,"
+1,028
+",97%,94%,76%,35%,55%,90.8%,1.8%,3.5%,1.9%,0.1%,0.1%,1.8%
+"
+Cedar Falls High School
+",Cedar Falls,IA,#2,92%,"
+1,131
+",96%,92%,85%,18%,55%,84.3%,4.2%,3.7%,4.2%,0.1%,0.1%,3.5%
+"
+Decorah High School
+",Decorah,IA,#3,95%,"
+572
+",95% or more*,95%,48%,25%,86%,94.6%,0.3%,2.4%,1%,0%,0%,1.6%
+"
+Blue Valley North High
+",Overland Park,KS,#1,59%,"
+1,533
+",97%,59%,26.6,11th,92%,72.9%,5.5%,5%,12.1%,0.5%,0%,4.1%
+"
+Blue Valley Northwest High
+",Overland Park,KS,#2,53%,"
+1,580
+",96%,53%,25.8,7th,81%,75.5%,4.8%,5.4%,10.8%,0.1%,0.3%,3.1%
+"
+Blue Valley High
+",Stilwell,KS,#3,57%,"
+1,511
+",98%,57%,25.6,18th,73%,84.2%,1.7%,4%,6.3%,0.3%,0.2%,3.3%
+"
+Dupont Manual High
+",Louisville,KY,#1,84%,"
+1,896
+",99% or more*,84%,27.5,11th,79%,66.3%,15.8%,2.7%,13.1%,0.1%,0.3%,1.7%
+"
+Highlands High School
+",Fort Thomas,KY,#2,82%,"
+972
+",96%,82%,24.4,15th,74%,94.8%,1.1%,1.6%,0.9%,0%,0%,1.5%
+"
+Louisville Male High School
+",Louisville,KY,#3,72%,"
+1,776
+",97%,72%,22.3,9th,51%,62.3%,32.2%,2.6%,1.5%,0%,0.1%,1.4%
+"
+Caddo Parish Magnet High School
+",Shreveport,LA,#1,26.3,"
+1,122
+",98%,26.3,12th,14th,18%,62.1%,22.5%,4.1%,8%,0.4%,0.1%,2.8%
+"
+Thomas Jefferson High School for Advanced Studies
+",Gretna,LA,#2,26.7,"
+400
+",95%,26.7,11th,10th,18%,38.5%,34.2%,7%,15%,0.5%,0.5%,4.2%
+"
+Benjamin Franklin High School
+",New Orleans,LA,#3,28.8,"
+894
+",97%,28.8,32nd,12th,18%,41.1%,32.6%,6.7%,16.4%,0.3%,0%,2.9%
+"
+Falmouth High School
+",Falmouth,ME,#1,60%,"
+696
+",95% or more*,60%,91%,41%,77%,92.8%,1.3%,1%,4.5%,0.4%,0%,0%
+"
+Marshwood High School
+",South Berwick,ME,#2,54%,"
+759
+",94%,54%,131%,20%,83%,94.5%,2.2%,1.3%,0.9%,0.4%,0%,0.7%
+"
+Wells High School
+",Wells,ME,#3,53%,"
+446
+",95% or more*,53%,63%,31%,70%,95.7%,0.7%,1.3%,0.2%,0%,0%,2%
+"
+Marriotts Ridge High
+",Marriottsville,MD,#1,98%,"
+1,161
+",98%,98%,74%,46%,91%,59.5%,6.9%,3.3%,26.3%,0%,0%,4%
+"
+River Hill High
+",Clarksville,MD,#2,98%,"
+1,310
+",97%,98%,78%,50%,86%,56.1%,5.9%,7.4%,25.9%,0.2%,0.1%,4.4%
+"
+Centennial High
+",Ellicott City,MD,#3,98%,"
+1,402
+",98%,98%,75%,42%,82%,48.3%,8%,3.7%,34.9%,0.1%,0.1%,4.9%
+"
+Hopkinton High
+",Hopkinton,MA,#1,98%,"
+1,122
+",98%,98%,1132,3rd,85%,90.3%,1.2%,1.5%,6.2%,0.3%,0%,0.4%
+"
+Belmont High
+",Belmont,MA,#2,98%,"
+1,236
+",97%,98%,1197,30th,97%,69.4%,4.7%,3.1%,16.4%,0%,0.2%,6.2%
+"
+Acton-Boxborough Regional High
+",Acton,MA,#3,97%,"
+1,903
+",98%,97%,1258,8th,101%,68.4%,1.1%,3.3%,24.1%,0.3%,0%,2.8%
+"
+Rochester Adams High School
+",ROCHESTER HILLS,MI,#1,62%,"
+1,567
+",99% or more*,62%,1216,21st,97%,76.9%,4.3%,3.1%,12.3%,0.3%,0.1%,3.1%
+"
+Grosse Pointe South High School
+",GROSSE POINTE FARMS,MI,#2,68%,"
+1,671
+",96%,68%,1166,34th,80%,83.3%,11%,2.1%,1.2%,0.1%,0%,2.3%
+"
+Troy High School
+",TROY,MI,#3,76%,"
+2,018
+",98%,76%,1204,247th,91%,55.8%,5.2%,2.4%,33.5%,0%,0%,2.9%
+"
+Mounds View Senior High
+",ARDEN HILLS,MN,#1,79%,"
+1,735
+",98%,79%,25.4,7th,79%,77.5%,3.6%,2.3%,14.4%,0.5%,0.2%,1.6%
+"
+Chanhassen High School
+",CHANHASSEN,MN,#2,72%,"
+1,662
+",97%,72%,24,1st,101%,91.8%,1%,2.3%,3.4%,0.2%,0.1%,1.1%
+"
+Orono Senior High
+",LONG LAKE,MN,#3,76%,"
+938
+",97%,76%,25.7,25th,-,92.6%,0.6%,3.7%,1.7%,0.1%,0%,1.2%
+"
+Lewisburg High School
+",OLIVE BRANCH,MS,#1,78%,"
+900
+",85%,78%,21.3,1st,88%,89%,8.1%,2.6%,0%,0.1%,0%,0.2%
+"
+Hernando High School
+",HERNANDO,MS,#2,69%,"
+1,186
+",86%,69%,19.8,6th,69%,79.6%,13.3%,5.3%,1.3%,0.1%,0%,0.4%
+"
+Desoto Central High School
+",Southaven,MS,#3,76%,"
+1,684
+",86%,76%,20.4,67th,43%,64.4%,28.9%,2.7%,3.4%,0.2%,0%,0.4%
+"
+Lafayette Sr. High
+",WILDWOOD,MO,#1,85%,"
+1,924
+",97%,85%,24.4,43rd,94%,78.4%,11.4%,2.7%,6%,0.2%,0.1%,1.4%
+"
+Kirkwood Sr. High
+",KIRKWOOD,MO,#2,82%,"
+1,782
+",97%,82%,23.4,52nd,92%,74.6%,17.3%,2.4%,1.9%,0.2%,0%,3.6%
+"
+West High
+",BALLWIN,MO,#3,88%,"
+1,176
+",96%,88%,24.7,54th,90%,74.7%,11.2%,3%,8.1%,0.2%,0%,2.9%
+"
+Red Lodge High School
+",Red Lodge,MT,#1,60%,"
+165
+",90% or more*,60%,57%,19%,68%,93.3%,0%,1.8%,0.6%,1.8%,0%,2.4%
+"
+Three Forks High School
+",Three Forks,MT,#2,60%,"
+168
+",90% or more*,60%,54%,18%,74%,95.2%,0.6%,2.4%,1.2%,0.6%,0%,0%
+"
+Whitefish High School
+",Whitefish,MT,#3,64%,"
+497
+",85% to 89%*,64%,67%,20%,83%,94.4%,0.6%,2.8%,0.6%,1.6%,0%,0%
+"
+Elkhorn South High School
+",OMAHA,NE,#1,95%,"
+1,077
+",99% or more*,95%,75%,37%,85%,91.7%,0.8%,2.8%,2.5%,0.5%,0%,1.7%
+"
+Millard North High School
+",OMAHA,NE,#2,86%,"
+2,521
+",95%,86%,79%,23%,73%,79.9%,4.5%,5%,7.3%,0.6%,0.2%,2.5%
+"
+Millard West High School
+",OMAHA,NE,#3,85%,"
+2,448
+",96%,85%,86%,26%,60%,88.2%,1.6%,5.4%,2.7%,0.1%,0.1%,2.1%
+"
+Nevada State High School
+",Henderson,NV,Upper 11.5%,3rd,"
+312
+",9th,3rd,N/A,N/A,0%,57.4%,4.8%,23.4%,9.6%,0%,0.6%,4.2%
+"
+Silver State High School
+",Carson City,NV,Upper 30.2%,N/A,"
+412
+",89th,N/A,N/A,N/A,0,77.4%,0.7%,14.3%,0.7%,2.7%,0.5%,3.6%
+"
+Beacon Academy of Nevada
+",Las Vegas,NV,Upper 21.9%,59th,"
+524
+",84th,59th,N/A,N/A,0%,49.4%,8.8%,28.1%,2.5%,1%,0.6%,9.7%
+"
+Windham High School
+",Windham,NH,#1,64%,"
+813
+",95% or more*,64%,78%,16%,87%,89.5%,0.2%,3.6%,3.2%,0%,0%,3.4%
+"
+Hollis-Brookline High School
+",Hollis,NH,#2,67%,"
+830
+",96%,67%,54%,27%,82%,94.5%,0.7%,1.6%,2.9%,0.1%,0.2%,0%
+"
+Oyster River High School
+",Durham,NH,#3,64%,"
+719
+",95% or more*,64%,72%,11%,89%,92.2%,0.8%,1.3%,4.2%,0.1%,0.1%,1.3%
+"
+Princeton High School
+",PRINCETON,NJ,#1,60%,"
+1,519
+",99% or more*,60%,1302,8th,95%,60.4%,5.4%,8.4%,21.3%,0.2%,0%,4.2%
+"
+Millburn High School
+",MILLBURN,NJ,#2,58%,"
+1,472
+",98%,58%,1322,17th,100%,71.7%,2%,2.9%,22.8%,0.1%,0.1%,0.3%
+"
+Ridge High School
+",BASKING RIDGE,NJ,#3,68%,"
+1,900
+",98%,68%,1283,57th,98%,73.5%,0.7%,4%,20.2%,0%,0%,1.5%
+"
+Los Alamos High
+",LOS ALAMOS,NM,#1,52%,"
+1,071
+",88%,52%,64%,31%,84%,63.3%,0.7%,27.5%,6.3%,1.3%,0.4%,0.6%
+"
+La Cueva High
+",ALBUQUERQUE,NM,#2,54%,"
+1,834
+",81%,54%,64%,39%,74%,48.6%,1.5%,35.2%,8.8%,1.8%,0.2%,3.8%
+"
+V Sue Cleveland High
+",RIO RANCHO,NM,#3,36%,"
+2,394
+",86%,36%,50%,40%,49%,40.1%,3.3%,48%,1.7%,3.9%,0.2%,2.7%
+"
+Pittsford Sutherland High School
+",PITTSFORD,NY,#1,99%,"
+967
+",99% or more*,99%,78%,46%,91%,80.6%,4.1%,3.9%,9.2%,0%,0%,2.2%
+"
+Byram Hills High School
+",ARMONK,NY,#2,99%,"
+870
+",99% or more*,99%,62%,40%,93%,91.6%,0.6%,2.6%,5.2%,0%,0%,0%
+"
+Pittsford-mendon High School
+",PITTSFORD,NY,#3,99%,"
+1,013
+",98%,99%,70%,48%,91%,78.8%,3.2%,5.2%,10.6%,0.1%,0%,2.2%
+"
+Providence High
+",Charlotte,NC,#1,88%,"
+1,991
+",98%,88%,24.5,59th,88%,72.5%,8.6%,5.5%,9.8%,0.3%,0.1%,3.2%
+"
+Marvin Ridge High
+",Waxhaw,NC,#2,84%,"
+1,573
+",99% or more*,84%,24,42nd,81%,84.3%,5%,3%,5.5%,0.1%,0%,2.2%
+"
+Green Hope High
+",Cary,NC,#3,80%,"
+2,380
+",98%,80%,23.5,74th,90%,63.3%,6%,5.1%,21.9%,0.2%,0.2%,3.3%
+"
+Fargo Davies High School
+",Fargo,ND,#1,65%,"
+1,204
+",95%,65%,44%,25%,76%,82.5%,10.5%,1.4%,4%,0.7%,0.1%,0.8%
+"
+Century High School
+",Bismarck,ND,#2,58%,"
+1,424
+",96%,58%,46%,16%,92%,92.1%,1.5%,2%,1.1%,2.2%,0.1%,1%
+"
+Central High School
+",Grand Forks,ND,#3,62%,"
+949
+",93%,62%,55%,11%,81%,82.4%,4.8%,3.7%,1.1%,7.1%,0.8%,0.1%
+"
+Granville High School
+",Granville,OH,#1,96%,"
+841
+",97%,96%,26,28th,102%,95.5%,1.1%,1.3%,1.3%,0%,0%,0.8%
+"
+Solon High School
+",Solon,OH,#2,98%,"
+1,697
+",98%,98%,26,80th,92%,64.8%,16.3%,1.6%,14.3%,0%,0.1%,3%
+"
+Rocky River High School
+",Rocky River,OH,#3,99%,"
+854
+",99% or more*,99%,25,70th,102%,91.2%,1.1%,3.7%,1.9%,0.4%,0%,1.8%
+"
+Harding Charter Preparatory High School
+",Oklahoma City,OK,#1,95%,"
+482
+",95% or more*,95%,98%,68%,75%,38.2%,31.1%,21.6%,6.2%,2.3%,0%,0.6%
+"
+North High School
+",Edmond,OK,#2,93%,"
+2,586
+",95%,93%,94%,38%,71%,75.2%,5.4%,7.2%,3.7%,2.7%,0.1%,5.6%
+"
+Deer Creek High School
+",Edmond,OK,#3,90%,"
+1,354
+",97%,90%,142%,30%,63%,79%,4.9%,5.8%,4.9%,3.6%,0.1%,1.7%
+"
+West Linn High School
+",West Linn,OR,#1,73%,"
+1,647
+",97%,73%,53%,37%,74%,81.2%,0.4%,6.2%,5%,0.4%,0.1%,6.7%
+"
+South Eugene High School
+",Eugene,OR,#2,82%,"
+1,435
+",91%,82%,60%,14%,93%,72.7%,2.4%,8.4%,5.8%,0.6%,0.1%,10.1%
+"
+Lakeridge High School
+",Lake Oswego,OR,#3,78%,"
+1,132
+",92%,78%,26%,28%,85%,80.4%,1.3%,5.3%,5.9%,0.5%,0.6%,5.9%
+"
+Wissahickon SHS
+",Ambler,PA,#1,96%,"
+1,386
+",99% or more*,96%,1145,6th,87%,65%,12.1%,4.5%,13.3%,0%,0.1%,5%
+"
+Hampton High School
+",Allison Park,PA,#2,94%,"
+1,077
+",99% or more*,94%,1121,92nd,102%,95.5%,0.8%,0.5%,2%,0.2%,0%,0.9%
+"
+Mt Lebanon SHS
+",Pittsburgh,PA,#3,94%,"
+1,693
+",99% or more*,94%,1151,20th,89%,89.2%,2%,2.5%,5.2%,0.1%,0.1%,0.9%
+"
+Barrington High School
+",Barrington,RI,#1,62%,"
+1,055
+",96%,62%,68%,30%,89%,90%,0.8%,2.2%,4.8%,0.6%,0%,1.6%
+"
+Classical High School
+",Providence,RI,#2,72%,"
+1,118
+",97%,72%,75%,51%,42%,25.3%,16.7%,45.6%,8.6%,0.3%,0.1%,3.4%
+"
+Portsmouth High School
+",Portsmouth,RI,#3,44%,"
+919
+",97%,44%,41%,N/A,74%,92.1%,2%,2.6%,1.4%,0.3%,0.2%,1.4%
+"
+Academic Magnet High
+",North Charleston,SC,#1,95%,"
+644
+",95% or more*,95%,29.5,15th,97%,84.5%,2.3%,3.3%,7.1%,0.5%,0.3%,2%
+"
+Chapin High
+",Chapin,SC,#2,98%,"
+1,154
+",95%,98%,22,7th,54%,89.7%,4.3%,2.5%,0.6%,0.4%,0.2%,2.3%
+"
+Lexington High
+",Lexington,SC,#3,96%,"
+1,729
+",93%,96%,21.7,13th,80%,81.1%,7.5%,4.9%,2.4%,0.3%,0.1%,3.6%
+"
+Brandon Valley High School - 01
+",Brandon,SD,#1,68%,"
+991
+",96%,68%,57%,8%,91%,93.4%,2.3%,1.5%,1.4%,0.3%,0.5%,0.5%
+"
+West Central High School - 01
+",Hartford,SD,#2,57%,"
+368
+",95% or more*,57%,93%,15%,61%,95.9%,1.1%,0.5%,0.3%,0.5%,0%,1.6%
+"
+Stevens High School - 42
+",Rapid City,SD,#3,64%,"
+1,557
+",88%,64%,64%,14%,86%,85.2%,0.7%,4.4%,1.1%,5.8%,0%,2.7%
+"
+Hume - Fogg High
+",Nashville,TN,#1,3rd,"
+915
+",2nd,3rd,83%,63%,74%,63.1%,21.4%,6.2%,8.6%,0.2%,0%,0.4%
+"
+Ravenwood High School
+",Brentwood,TN,#2,4th,"
+2,025
+",18th,4th,86%,33%,87%,78.7%,4.9%,4.5%,7.7%,0.1%,0.1%,4%
+"
+Franklin High School
+",Franklin,TN,#3,10th,"
+1,747
+",9th,10th,85%,30%,86%,85.2%,2.5%,6.3%,1.9%,0.2%,0%,3.9%
+"
+Debakey High School For Health Prof
+",HOUSTON,TX,#1,1269,"
+844
+",97%,1269,28th,31st,15%,10%,16.7%,27.6%,43.6%,0.2%,0.8%,1.1%
+"
+Carnegie Vanguard High School
+",HOUSTON,TX,#2,1320,"
+613
+",94%,1320,63rd,18th,15%,39.3%,10.6%,27.9%,18.9%,0.3%,0%,2.9%
+"
+Perfor & Vis Arts High School
+",HOUSTON,TX,#3,1132,"
+724
+",97%,1132,21st,35th,15%,47%,17.4%,23.9%,9.4%,0.1%,0%,2.2%
+"
+Davis High
+",KAYSVILLE,UT,#1,56%,"
+2,487
+",97%,56%,142%,33%,66%,92.8%,0.7%,3.6%,1.2%,0.2%,0.6%,0.9%
+"
+Viewmont High
+",BOUNTIFUL,UT,#2,59%,"
+1,808
+",96%,59%,143%,32%,66%,91.2%,0.6%,4%,1.4%,0.3%,1.1%,1.4%
+"
+No Ut Academy For Math Engineering & Science (nuames)
+",LAYTON,UT,#3,70%,"
+656
+",95% or more*,70%,136%,27%,66%,83.5%,0.6%,9.9%,2.1%,0.5%,0.9%,2.4%
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"
+BFA High School - Fairfax
+",Fairfax,VT,#2,54%,"
+334
+",95% or more*,54%,77%,17%,50%,94.3%,0.3%,0.6%,1.8%,1.5%,0%,1.5%
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"
+Cosby High
+",Midlothian,VA,#1,94%,"
+2,028
+",99% or more*,94%,65%,35%,76%,74.5%,13.6%,4.7%,4%,0.1%,0.1%,3.1%
+"
+Yorktown High
+",Arlington,VA,#2,93%,"
+1,933
+",94%,93%,100%,49%,74%,66.2%,4.6%,16.1%,7.8%,0.4%,0.1%,4.9%
+"
+Hickory High
+",Chesapeake,VA,#3,94%,"
+1,766
+",96%,94%,59%,31%,70%,81.3%,5%,6.1%,2.3%,0.3%,0.2%,4.7%
+"
+Newport Senior High School
+",Bellevue,WA,#1,87%,"
+1,730
+",95%,87%,1200,5th,84%,41%,2.1%,4.9%,43.2%,0.2%,0.2%,8.4%
+"
+Woodinville High School
+",Woodinville,WA,#2,72%,"
+1,445
+",96%,72%,1138,32nd,54%,77.4%,1.6%,8.4%,6.7%,0%,0.3%,5.6%
+"
+Mercer Island High School
+",Mercer Island,WA,#3,83%,"
+1,416
+",94%,83%,1244,13th,80%,70.8%,1.7%,3.8%,20.6%,0.4%,0.1%,2.5%
+"
+Washington High School
+",CHARLES TOWN,WV,#1,50%,"
+1,180
+",95%,50%,28%,N/A,70%,81.7%,6.9%,6.8%,1.1%,0.1%,0.1%,3.4%
+"
+Bridgeport High School
+",BRIDGEPORT,WV,#2,54%,"
+724
+",95% or more*,54%,15%,N/A,72%,93.4%,2.3%,0.8%,2.8%,0.4%,0%,0.3%
+"
+Wheeling Park High School
+",WHEELING,WV,#3,44%,"
+1,549
+",95%,44%,14%,N/A,99%,87.8%,7.5%,0.6%,1.2%,0.4%,0.1%,2.3%
+"
+Cedarburg High
+",Cedarburg,WI,#1,74%,"
+1,162
+",99% or more*,74%,24.7,11th,89%,92.1%,0.9%,2.7%,2.2%,0.1%,0%,2.1%
+"
+Homestead High
+",Mequon,WI,#2,70%,"
+1,279
+",98%,70%,24.6,8th,90%,80.8%,6.7%,3.8%,6.6%,0.1%,0.1%,1.9%
+"
+Central High
+",Brookfield,WI,#3,70%,"
+1,324
+",98%,70%,24.2,23rd,85%,77%,4.3%,4.8%,11.5%,0%,0%,2.3%
+"
+Pinedale High School
+",Pinedale,WY,#1,54%,"
+273
+",90% to 94%*,54%,22.9,7th,69%,88.6%,0.4%,8.4%,1.1%,1.1%,0%,0.4%
+"
+Jackson Hole High School
+",Jackson,WY,#2,50%,"
+604
+",95% or more*,50%,21.8,-9th,50%,70.2%,0.2%,26.2%,1%,0.3%,0%,2.2%
+"
+Sheridan High School
+ ",Sheridan,WY,#3,50%,"
+971
+",87%,50%,21.5,6th,70%,90.1%,0.7%,4.6%,0.5%,1.4%,0.2%,2.4%

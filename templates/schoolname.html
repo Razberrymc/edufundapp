@@ -1,0 +1,43 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+{{ super() }}
+	<style>
+		body { background: #f5f5f5; }
+	</style>
+{% endblock %}
+
+
+{% block title %}
+Selected State: {{ the_fund.state }}
+{% endblock %}
+
+
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-lg-6 mx-md-auto mx-lg-auto">
+
+	  <h1 class="mt-5 display-3 text-primary">{{ the_school.school }}</h1>
+
+		<p>Here is the budget break down detailing where education funds came from and how much {{ the_fund.state }} spent on education in 2019</p>
+
+		<ul class="mt-5 mb-5">
+			<li class="lead"><span class="font-weight-bold"></span> {{ the_school.school }} is located in {{ the_school.location }}, {{ the_school.state }}<span class="font-weight-bold"></span> </li>
+			<li class="lead"><span class="font-weight-bold"></span> {{ the_school.school }} is rated as the {{ the_school.rating }} public school in {{ the_school.state }} as of 2019<span class="font-weight-bold"></span> </li>
+			<li class="lead"><span class="font-weight-bold"></span> {{ the_school.state_test }} of students at {{ the_school.school }} are proficient in math and reading standardized tests, as administered by the {{ the_school.state }} Department Of Education.<span class="font-weight-bold"></span> </li>
+			<li class="lead"><span class="font-weight-bold"></span> A total of {{ the_school.population }} students are enrolled at {{ the_school.school }}<span class="font-weight-bold"></span> </li>
+			<li class="lead"><span class="font-weight-bold"></span> {{ the_school.school }} has a graduation rate of {{ the_school.grad_rate }} <span class="font-weight-bold"></span> </li>
+		</ul>
+
+    <p>All 2019 rankings of US Public Schools are from <a href='https://www.collegesimply.com/k12/'>COLLEGESIMPLY</a> </p>
+
+
+    <p><a href="{{ url_for('index') }}">Return to search page</a></p>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}

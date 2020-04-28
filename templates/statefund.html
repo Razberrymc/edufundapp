@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Raleway&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/bootstrap_css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/main.css">
+	<link rel="stylesheet" href="static/main.css">
+
+</head>
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+{{ super() }}
+	<style>
+		body { background-color: #000000;
+background-image: linear-gradient(315deg, #000000 0%, #414141 74%); }
+	</style>
+{% endblock %}
+
+
+{% block title %}
+Selected State: {{ the_fund.state }}
+{% endblock %}
+
+
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-lg-6 mx-md-auto mx-lg-auto">
+
+	  <h1 id="state">{{ the_fund.state }}</h1>
+
+		<p>Here you can find the budget break down detailing where education funds came from and how much {{ the_fund.state }} spent on education in 2019. You can also look at how the top 3 schools in {{ the_fund.state }} perform given the state's education budget.</p>
+
+		<h2 id="budget">Education Budget</h2>
+
+		<ul class="mt-5 mb-5">
+			<li class="lead"><span class="font-weight-bold">General Funds: ${{ the_fund.edu_gen_funds }} Million</span> </li>
+			<li class="lead"><span class="font-weight-bold">Federal Funds: ${{ the_fund.edu_fed_funds }} Million</span> </li>
+			<li class="lead"><span class="font-weight-bold">Other State Funds: ${{ the_fund.edu_other_state_funds }} Million</span> </li>
+			<li class="lead"><span class="font-weight-bold">Bond Funds: ${{ the_fund.edu_bond_funds }} Million</span> </li>
+			<li class="lead"><span class="font-weight-bold">Total Funds: ${{ the_fund.edu_total_funds }} Million</span> </li>
+		</ul>
+
+		<h2 id="top">Top 3 Schools in {{ the_fund.state }}</h2>
+
+		<ul class="mt-5 mb-5">
+
+			<li class="lead" id="school1"> {{the_school[0].school}} </li>
+
+			<ul class="mt-5 mb-5">
+
+				<li class="lead"> {{ the_school[0].school }} is located in {{ the_school[0].location }}, {{ the_school[0].state }}. </li>
+				<li class="lead"> It is rated as the <b>{{ the_school[0].rating }}</b> public school in {{ the_school[0].state }} as of 2019. </li>
+				<li class="lead"> <b>{{ the_school[0].state_test }}</b> of students at this school are proficient in math and reading standardized tests, as administered by the {{ the_school[0].state }} Department Of Education. </li>
+				<li class="lead"> A total of <b>{{ the_school[0].population }}</b> students are enrolled at {{ the_school[0].school }}. </li>
+				<li class="lead"> {{ the_school[0].school }} has a graduation rate of <b>{{ the_school[0].grad_rate }}</b> </li>
+				<li class="lead"> <b>{{ the_school[0].act_sat }}</b> of upperclassmen at this school took either the ACT or SAT. </li>
+				<li class="lead"> <b>{{ the_school[0].ap_class }}</b> of students at this school are enrolled in at least one AP class. Of those students <b>{{ the_school[0].ap_pass }}</b> pass their AP exams. </li>
+
+				<li class="lead"> <b>Demographics</b> </li>
+					<ul>
+						<li class="lead"> {{ the_school[0].white }} of students are White </li>
+						<li class="lead"> {{ the_school[0].black }} of students are Black </li>
+						<li class="lead"> {{ the_school[0].hispanic }} of students are Hispanic </li>
+						<li class="lead"> {{ the_school[0].asian }} of students are Asian Pacific </li>
+						<li class="lead"> {{ the_school[0].native }} of students are Native American Indian </li>
+						<li class="lead"> {{ the_school[0].hawaiian }} of students are Hawaiian Pacific Islander </li>
+						<li class="lead"> {{ the_school[0].twoplus }} of students are two or more races </li>
+					</ul>
+
+			</ul>
+			<li class="lead" id="school2"> {{the_school[1].school}} </li>
+
+			<ul class="mt-5 mb-5">
+
+				<li class="lead"> {{ the_school[1].school }} is located in {{ the_school[1].location }}, {{ the_school[1].state }}. </li>
+				<li class="lead"> It is rated as the <b>{{ the_school[1].rating }}</b> public school in {{ the_school[1].state }} as of 2019. </li>
+				<li class="lead"> <b>{{ the_school[1].state_test }}</b> of students at this school are proficient in math and reading standardized tests, as administered by the {{ the_school[1].state }} Department Of Education. </li>
+				<li class="lead"> A total of <b>{{ the_school[1].population }}</b> students are enrolled at {{ the_school[1].school }}. </li>
+				<li class="lead"> {{ the_school[1].school }} has a graduation rate of <b>{{ the_school[1].grad_rate }}</b> </li>
+				<li class="lead"> <b>{{ the_school[1].act_sat }}</b> of upperclassmen at this school took either the ACT or SAT. </li>
+				<li class="lead"> <b>{{ the_school[1].ap_class }}</b> of students at this school are enrolled in at least one AP class. Of those students <b>{{ the_school[1].ap_pass }}</b> pass their AP exams. </li>
+
+				<li class="lead"> <b>Demographics</b> </li>
+					<ul>
+						<li class="lead"> {{ the_school[1].white }} of students are White </li>
+						<li class="lead"> {{ the_school[1].black }} of students are Black </li>
+						<li class="lead"> {{ the_school[1].hispanic }} of students are Hispanic </li>
+						<li class="lead"> {{ the_school[1].asian }} of students are Asian Pacific </li>
+						<li class="lead"> {{ the_school[1].native }} of students are Native American Indian </li>
+						<li class="lead"> {{ the_school[1].hawaiian }} of students are Hawaiian Pacific Islander </li>
+						<li class="lead"> {{ the_school[1].twoplus }} of students are two or more races </li>
+					</ul>
+
+			</ul>
+
+			<li class="lead" id="school3"> {{the_school[2].school}} </li>
+
+			<ul class="mt-5 mb-5">
+
+				<li class="lead"> {{ the_school[2].school }} is located in {{ the_school[2].location }}, {{ the_school[2].state }}. </li>
+				<li class="lead"> It is rated as the <b>{{ the_school[2].rating }}</b> public school in {{ the_school[2].state }} as of 2019. </li>
+				<li class="lead"> <b>{{ the_school[2].state_test }}</b> of students at this school are proficient in math and reading standardized tests, as administered by the {{ the_school[2].state }} Department Of Education. </li>
+				<li class="lead"> A total of <b>{{ the_school[2].population }}</b> students are enrolled at {{ the_school[2].school }}. </li>
+				<li class="lead"> {{ the_school[2].school }} has a graduation rate of <b>{{ the_school[2].grad_rate }}</b> </li>
+				<li class="lead"> <b>{{ the_school[2].act_sat }}</b> of upperclassmen at this school took either the ACT or SAT. </li>
+				<li class="lead"> <b>{{ the_school[2].ap_class }}</b> of students at this school are enrolled in at least one AP class. Of those students <b>{{ the_school[2].ap_pass }}</b> pass their AP exams. </li>
+
+				<li class="lead"> <b>Demographics</b> </li>
+					<ul>
+						<li class="lead"> {{ the_school[2].white }} of students are White </li>
+						<li class="lead"> {{ the_school[2].black }} of students are Black </li>
+						<li class="lead"> {{ the_school[2].hispanic }} of students are Hispanic </li>
+						<li class="lead"> {{ the_school[2].asian }} of students are Asian Pacific </li>
+						<li class="lead"> {{ the_school[2].native }} of students are Native American Indian </li>
+						<li class="lead"> {{ the_school[2].hawaiian }} of students are Hawaiian Pacific Islander </li>
+						<li class="lead"> {{ the_school[2].twoplus }} of students are two or more races </li>
+					</ul>
+
+			</ul>
+
+		</ul>
+
+		<div id="graph">
+		    <a href="https://plotly.com/~Vibrato13255/2/?share_key=FI5IWSCAdTmkrwxOsvtx6Y" target="_blank" title="Plot 2" style="display: block; text-align: center;"><img src="https://plotly.com/~Vibrato13255/2.png?share_key=FI5IWSCAdTmkrwxOsvtx6Y" alt="Plot 2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+		    <script data-plotly="Vibrato13255:2" sharekey-plotly="FI5IWSCAdTmkrwxOsvtx6Y" src="https://plotly.com/embed.js" async></script>
+		</div>
+
+
+		<p class="cred">State budget data was collected by the <a href='https://www.nasbo.org/reports-data/state-expenditure-report?CLK=4b8a4975-935c-49ca-b144-4402ce43db45'>National Association of State Budget Officers</a></p>
+
+		<p class="cred">All 2019 rankings of US Public Schools are from <a href='https://www.collegesimply.com/k12/'>COLLEGESIMPLY</a> </p>
+
+		<p class="cred"> Statewide graduation rate data was collected by the <a href='https://nces.ed.gov/'>National Center for Education Statistics</a> </p>
+
+
+      <p id="return"><a href="{{ url_for('index') }}">Return to search page</a></p>
+
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
